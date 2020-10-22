@@ -1,6 +1,12 @@
 # Take Home
 This project is to help people who are next to return from their holidays and want to find the best office of their company based on the best weather or cheapest flight.
 
+Built with:
+
+  - Vue.js
+
+  - Tailwind
+
 ### Demo
 
 [Take Home](https://takehomeapp.000webhostapp.com/)
@@ -34,7 +40,7 @@ npm run build
   - Loading
   - Display weather icon
 
-### Future code improvements
+## Future code improvements
 
   - Implement unit testing
   - Vuex to hold shared data like the offices list
@@ -45,7 +51,7 @@ npm run build
   - Style `<select>` and `<datalist>`
   - Prevent native zoom in mobile devices
   
-### Features: New ideas to implement
+## Features: New ideas to implement
 
   - Add field "When": Date input to select desired date to travel
   - Option to display temperature in: Celcius | Farenheit
